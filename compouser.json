@@ -1,5 +1,5 @@
 {
-    "name":"fransinho-007/mi-proyecto1-php",
+    "name":"fransinho-007/mi-proyecto1-fransinho007-php",
     "autoload":{
         "files":[
             "src/tools.php"
