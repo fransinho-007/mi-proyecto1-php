@@ -1,0 +1,14 @@
+{
+    "name":"fransinho-007/mi-proyecto1-php",
+    "autoload":{
+        "files":[
+            "src/tools.php"
+        ]
+    },
+    "autors":[
+        {
+            "name":"fransinho-007"
+        }
+    ],
+    "require":{}
+}
