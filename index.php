@@ -2,6 +2,8 @@
 
 require __DIR__ . '/vendor/autoload.php'; 
 
-echo saludar();
+echo 'hola'
+
+/*echo saludar();
 echo '<br>';
-echo saludar_nombre('Franz');
+echo saludar_nombre('Franz');*/
